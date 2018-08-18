@@ -1,0 +1,6 @@
+C:\Users\FURQAN\Desktop\UIT\nhuda\Programs\Bank Account\bin\Debug\Bank Account.exe.config
+C:\Users\FURQAN\Desktop\UIT\nhuda\Programs\Bank Account\bin\Debug\Bank Account.exe
+C:\Users\FURQAN\Desktop\UIT\nhuda\Programs\Bank Account\bin\Debug\Bank Account.pdb
+C:\Users\FURQAN\Desktop\UIT\nhuda\Programs\Bank Account\obj\Debug\Bank Account.csprojResolveAssemblyReference.cache
+C:\Users\FURQAN\Desktop\UIT\nhuda\Programs\Bank Account\obj\Debug\Bank Account.exe
+C:\Users\FURQAN\Desktop\UIT\nhuda\Programs\Bank Account\obj\Debug\Bank Account.pdb
